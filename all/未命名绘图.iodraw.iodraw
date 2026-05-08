@@ -80,8 +80,8 @@
         <mxCell id="VU0D3DjWUt9ab1Tmwy5--90" value="n" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="520" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VU0D3DjWUt9ab1Tmwy5--91" value="胜利" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="370" y="450" width="80" height="60" as="geometry" />
+        <mxCell id="VU0D3DjWUt9ab1Tmwy5--91" value="平局" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="374" y="590" width="76" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
