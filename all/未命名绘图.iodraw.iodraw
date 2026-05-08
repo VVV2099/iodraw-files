@@ -80,6 +80,11 @@
         <mxCell id="VU0D3DjWUt9ab1Tmwy5--90" value="n" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="520" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="VU0D3DjWUt9ab1Tmwy5--94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VU0D3DjWUt9ab1Tmwy5--91">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="609.8333333333335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="VU0D3DjWUt9ab1Tmwy5--91" value="平局" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="380" y="585" width="76" height="50" as="geometry" />
         </mxCell>
