@@ -88,12 +88,6 @@
         <mxCell id="VU0D3DjWUt9ab1Tmwy5--58" value="胜利" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="430" y="750" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VU0D3DjWUt9ab1Tmwy5--59" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="290" y="860" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="VU0D3DjWUt9ab1Tmwy5--60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VU0D3DjWUt9ab1Tmwy5--53" target="VU0D3DjWUt9ab1Tmwy5--59">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
