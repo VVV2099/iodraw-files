@@ -68,6 +68,9 @@
         <mxCell id="VU0D3DjWUt9ab1Tmwy5--49" value="重制状态" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="430" y="610" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="VU0D3DjWUt9ab1Tmwy5--53" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="290" y="730" width="100" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
