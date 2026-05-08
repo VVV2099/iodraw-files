@@ -56,7 +56,7 @@
           <mxGeometry x="210" y="360" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VU0D3DjWUt9ab1Tmwy5--18" value="按输入方向&lt;div&gt;对对应坐标+1&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="70" y="525" width="130" height="105" as="geometry" />
+          <mxGeometry x="80" y="520" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="VU0D3DjWUt9ab1Tmwy5--20" value="n" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="125" y="470" width="60" height="30" as="geometry" />
