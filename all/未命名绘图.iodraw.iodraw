@@ -55,6 +55,11 @@
         <mxCell id="VU0D3DjWUt9ab1Tmwy5--17" value="y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="360" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="VU0D3DjWUt9ab1Tmwy5--21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VU0D3DjWUt9ab1Tmwy5--18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="180.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="VU0D3DjWUt9ab1Tmwy5--18" value="按输入方向&lt;div&gt;对对应坐标+1&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="80" y="520" width="110" height="70" as="geometry" />
         </mxCell>
