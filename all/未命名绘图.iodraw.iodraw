@@ -42,7 +42,7 @@
         <mxCell id="VU0D3DjWUt9ab1Tmwy5--74" value="获胜局数&lt;div&gt;是否达到2&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="610" y="420" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="VU0D3DjWUt9ab1Tmwy5--76" value="下一局" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="VU0D3DjWUt9ab1Tmwy5--76" value="此场胜利" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="727" y="440" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VU0D3DjWUt9ab1Tmwy5--77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VU0D3DjWUt9ab1Tmwy5--74" target="VU0D3DjWUt9ab1Tmwy5--76">
