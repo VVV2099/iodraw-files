@@ -46,16 +46,17 @@
         <mxCell id="VU0D3DjWUt9ab1Tmwy5--37" value="判断物体属性&lt;div&gt;按照物体属性对物体坐标和兔子坐标做更改&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="360" y="340" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="VU0D3DjWUt9ab1Tmwy5--42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VU0D3DjWUt9ab1Tmwy5--39">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="265" y="580" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="VU0D3DjWUt9ab1Tmwy5--45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VU0D3DjWUt9ab1Tmwy5--39" target="VU0D3DjWUt9ab1Tmwy5--44">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VU0D3DjWUt9ab1Tmwy5--39" value="对应坐标+1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="215" y="490" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VU0D3DjWUt9ab1Tmwy5--41" value="n" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VU0D3DjWUt9ab1Tmwy5--44" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="590" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
