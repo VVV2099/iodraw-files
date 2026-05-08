@@ -76,7 +76,10 @@
           <mxGeometry x="460" y="590" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VU0D3DjWUt9ab1Tmwy5--172" value="n" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="530" width="60" height="30" as="geometry" />
+          <mxGeometry x="260" y="680" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VU0D3DjWUt9ab1Tmwy5--173" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="220" y="730" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
