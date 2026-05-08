@@ -28,7 +28,7 @@
         <mxCell id="VU0D3DjWUt9ab1Tmwy5--82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VU0D3DjWUt9ab1Tmwy5--71" target="VU0D3DjWUt9ab1Tmwy5--79">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VU0D3DjWUt9ab1Tmwy5--71" value="胜利" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="VU0D3DjWUt9ab1Tmwy5--71" value="单局胜利" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="376" y="440" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VU0D3DjWUt9ab1Tmwy5--72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VU0D3DjWUt9ab1Tmwy5--69" target="VU0D3DjWUt9ab1Tmwy5--71">
@@ -157,6 +157,11 @@
         </mxCell>
         <mxCell id="VU0D3DjWUt9ab1Tmwy5--145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VU0D3DjWUt9ab1Tmwy5--143" target="VU0D3DjWUt9ab1Tmwy5--138">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VU0D3DjWUt9ab1Tmwy5--147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VU0D3DjWUt9ab1Tmwy5--143">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="749.8333333333335" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="VU0D3DjWUt9ab1Tmwy5--143" value="总对局数是否到3" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="240" y="700" width="100" height="100" as="geometry" />
