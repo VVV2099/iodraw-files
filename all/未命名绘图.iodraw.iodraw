@@ -16,6 +16,9 @@
         <mxCell id="VU0D3DjWUt9ab1Tmwy5--4" value="过程" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="510" y="60" width="140" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="VU0D3DjWUt9ab1Tmwy5--67" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="270" y="310" width="100" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
