@@ -19,6 +19,9 @@
         <mxCell id="VU0D3DjWUt9ab1Tmwy5--5" value="输入上下左右四向控制" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="300" y="190" width="160" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="VU0D3DjWUt9ab1Tmwy5--6" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="330" y="300" width="100" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
