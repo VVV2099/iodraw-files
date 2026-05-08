@@ -34,7 +34,7 @@
         <mxCell id="VU0D3DjWUt9ab1Tmwy5--11" value="金币" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="330" y="480" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VU0D3DjWUt9ab1Tmwy5--12" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="VU0D3DjWUt9ab1Tmwy5--12" value="箱子" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="330" y="585" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
