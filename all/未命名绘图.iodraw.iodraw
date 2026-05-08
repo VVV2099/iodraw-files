@@ -16,6 +16,11 @@
         <mxCell id="VU0D3DjWUt9ab1Tmwy5--4" value="过程" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="510" y="60" width="140" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="VU0D3DjWUt9ab1Tmwy5--30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VU0D3DjWUt9ab1Tmwy5--29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="265" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="VU0D3DjWUt9ab1Tmwy5--29" value="输入方向" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="220" y="260" width="90" height="50" as="geometry" />
         </mxCell>
