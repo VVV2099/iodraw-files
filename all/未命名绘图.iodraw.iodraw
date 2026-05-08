@@ -39,7 +39,7 @@
         <mxCell id="VU0D3DjWUt9ab1Tmwy5--157" value="n" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="350" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VU0D3DjWUt9ab1Tmwy5--158" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="VU0D3DjWUt9ab1Tmwy5--158" value="player血量&lt;div&gt;是否到0&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="220" y="400" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
