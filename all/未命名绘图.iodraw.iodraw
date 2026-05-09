@@ -32,7 +32,12 @@
         <mxCell id="VjYg3-ifEJWKAZum-_20-3" value="玩家向右移动&lt;div&gt;攻击沿途敌人&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="350" y="370" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VjYg3-ifEJWKAZum-_20-5" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="VjYg3-ifEJWKAZum-_20-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VjYg3-ifEJWKAZum-_20-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="499.7647058823529" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VjYg3-ifEJWKAZum-_20-5" value="玩家HP&amp;gt;&lt;span style=&quot;background-color: initial;&quot;&gt;0&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="350" y="450" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
