@@ -63,6 +63,11 @@
         <mxCell id="VjYg3-ifEJWKAZum-_20-18" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="450" y="610" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="VjYg3-ifEJWKAZum-_20-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VjYg3-ifEJWKAZum-_20-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="790.3529411764707" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="VjYg3-ifEJWKAZum-_20-20" value="boss血量&amp;gt;0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="350" y="740" width="100" height="100" as="geometry" />
         </mxCell>
